@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="526.26506"
-     inkscape:cy="419.40467"
+     inkscape:cx="369.28756"
+     inkscape:cy="389.39745"
      inkscape:document-units="mm"
      inkscape:current-layer="g67357"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1296,11 +1296,11 @@
        points="119.365,59.814825 114.06773,59.814825 111.4191,55.227253 114.06773,50.639681 119.365,50.639681 122.01364,55.227253 " />
     <polygon
        id="hexfill_15_7"
-       style="fill:#80ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
        points="119.365,68.989968 114.06773,68.989968 111.4191,64.402396 114.06773,59.814825 119.365,59.814825 122.01364,64.402396 " />
     <polygon
        id="hexfill_15_8"
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
        points="119.365,78.165112 114.06773,78.165112 111.4191,73.57754 114.06773,68.989968 119.365,68.989968 122.01364,73.57754 " />
     <polygon
        id="hexfill_15_9"
@@ -1376,11 +1376,11 @@
        points="127.31091,64.402396 122.01364,64.402396 119.365,59.814825 122.01364,55.227253 127.31091,55.227253 129.95955,59.814825 " />
     <polygon
        id="hexfill_16_8"
-       style="fill:#80ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
        points="127.31091,73.57754 122.01364,73.57754 119.365,68.989968 122.01364,64.402396 127.31091,64.402396 129.95955,68.989968 " />
     <polygon
        id="hexfill_16_9"
-       style="fill:#80ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
+       style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
        points="127.31091,82.752684 122.01364,82.752684 119.365,78.165112 122.01364,73.57754 127.31091,73.57754 129.95955,78.165112 " />
     <polygon
        id="hexfill_16_10"
@@ -18569,6 +18569,7 @@
      id="g73207"
      inkscape:groupmode="layer"
      inkscape:label="Hex Coordinates"
+     style="display:inline"
      sodipodi:insensitive="true">
     <text
        id="text71801"
@@ -19939,7 +19940,7 @@
        id="text72347"
        style="font-size:2.82222223px;text-align:center;text-anchor:middle"
        y="74.90155"
-       x="116.71637">.</text>
+       x="116.71637">MT</text>
     <text
        id="text72349"
        style="font-size:2.82222223px;text-align:center;text-anchor:middle"
