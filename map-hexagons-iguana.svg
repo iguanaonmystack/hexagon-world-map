@@ -2,23 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="210mm"
    viewBox="0 0 297 210"
    version="1.1"
    id="svg45727"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="map-hexagons-iguana.svg"
    inkscape:export-filename="/home/iguana/subversion/hexagon-world-map/map-hexagons-iguana.png"
    inkscape:export-xdpi="300.01099"
-   inkscape:export-ydpi="300.01099">
+   inkscape:export-ydpi="300.01099"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs45721" />
   <sodipodi:namedview
@@ -29,16 +29,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="381.45952"
-     inkscape:cy="411.97196"
+     inkscape:cx="390.35714"
+     inkscape:cy="375.35714"
      inkscape:document-units="mm"
-     inkscape:current-layer="g73207"
+     inkscape:current-layer="g67357"
      showgrid="false"
-     inkscape:window-width="1898"
+     inkscape:window-width="1996"
      inkscape:window-height="1412"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-x="1"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata45724">
     <rdf:RDF>
@@ -1139,7 +1140,7 @@
        points="98.175918,41.464537 95.527282,36.876965 98.175918,32.289393 103.47319,32.289393 106.12183,36.876965 103.47319,41.464537 " />
     <polygon
        id="hexfill_13_5"
-       style="opacity:0.25;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
        points="98.175918,50.639681 95.527282,46.052109 98.175918,41.464537 103.47319,41.464537 106.12183,46.052109 103.47319,50.639681 " />
     <polygon
        id="hexfill_13_6"
@@ -1375,11 +1376,11 @@
        points="122.01364,55.227253 119.365,50.639681 122.01364,46.052109 127.31091,46.052109 129.95955,50.639681 127.31091,55.227253 " />
     <polygon
        id="hexfill_16_7"
-       style="opacity:0.25;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
        points="122.01364,64.402396 119.365,59.814825 122.01364,55.227253 127.31091,55.227253 129.95955,59.814825 127.31091,64.402396 " />
     <polygon
        id="hexfill_16_8"
-       style="opacity:0.25;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.35277778;stroke-linecap:round"
        points="122.01364,73.57754 119.365,68.989968 122.01364,64.402396 127.31091,64.402396 129.95955,68.989968 127.31091,73.57754 " />
     <polygon
        id="hexfill_16_9"
